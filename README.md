@@ -46,4 +46,4 @@ You can focus on simple, fundamental functionality or more advanced props usage,
 ### TypeScript
 
 We prefer you implement your tests in TypeScript, but we also welcome submissions in javascript.
-Just implement your tests in `cypress/integration/DateRangePicker.spec.js`
+Just implement your tests in `cypress/integration/DateRangePicker.spec.ts`
